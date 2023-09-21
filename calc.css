@@ -1,0 +1,46 @@
+#app {    
+    margin-top: 5%;
+    margin-left: 35%;
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 9px;
+    background-color: gray;
+}
+
+#pantalla{
+    border-radius: 9px;
+    height: 15%;
+    width: 90%;
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    text-align: right;
+    font-size: 50px;
+    border: 0;
+    outline: none;
+}
+
+.boton{
+    width: 22%;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+    padding: 18px;
+    margin: 3px;
+    border: 0;
+    border-radius: 45%;
+}
+
+#blue{
+    background-color: rgb(3, 220, 253) !important;
+    color: white !important;
+}
+
+#red{
+    background-color: red;
+}
